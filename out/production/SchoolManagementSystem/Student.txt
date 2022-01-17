@@ -1,0 +1,5 @@
+1:random_name:abc@15432:Vineet Widhani:chemistry 34 32:maths 65 45:physics 85 75
+2:random_name2:abcd.1234:Ankit Sinha:english 80 70
+3:random_name3:abcd.1234:Abhinav Gupta:english 80 70
+4:random_name4:abcd@6543:Harkrit Singh:chemistry 0 0:physics 0 0
+5:random_name5:abcdcd@1342:Mihir Gupta:maths 0 0:physics 0 0

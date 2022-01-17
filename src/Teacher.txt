@@ -1,0 +1,5 @@
+1:teacher_name:1234@abcd:Rajeshwar Sharma:chemistry
+2:teacher_name2:1123@abcd:Ankit Srivastava:physics
+3:teacher_name3:1122@abcd:Mankan Gupta:english
+4:teacher_name4:1133@abab:Teacher Name
+5:teacher_name5:padd:jfjkf fknf
